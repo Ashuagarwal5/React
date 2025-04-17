@@ -1,0 +1,23 @@
+.counter-container{
+    width: 250px;
+    height: 150px;
+    background-color: #14c2e9;
+    padding: 25px;
+    /* gap: 50px; */
+    /* align-items: center; */ 
+    
+    margin: 50px;
+    box-shadow: 0 0 15px black;
+}
+#display{
+    text-align: center;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+}
+#increment, #decrement{
+    width: 5rem;
+    height: 2rem;
+    box-shadow: 0 0 50px black;
+}
