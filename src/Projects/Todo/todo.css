@@ -1,0 +1,9 @@
+/* Optional custom tweaks if needed */
+body {
+    background-color: #000 !important;
+  }
+  
+  input::placeholder {
+    font-style: italic;
+  }
+  
